@@ -1,0 +1,5 @@
+require("config.lazy")
+require('config.netrw')
+require('config.set')
+require('config.map')
+require('config.zero')
