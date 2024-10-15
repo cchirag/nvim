@@ -5,7 +5,7 @@ vim.o.smartcase = true
 
 -- Setting the Color Scheme
 vim.opt.termguicolors = true
-vim.cmd("colorscheme rose-pine-moon")
+vim.cmd("colorscheme kanagawa-dragon")
 
 vim.opt.mouse = ""
 vim.keymap.set("n", "dn", vim.diagnostic.goto_next)
