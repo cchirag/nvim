@@ -37,3 +37,5 @@ require("lazy").setup({
 require('gitsigns').setup()
 
 require('autoclose').setup()
+
+require('mini.cursorword').setup()
